@@ -89,6 +89,7 @@ VR技術者検定の振り返りでした。学生さんの記憶に残ってい
 - [ツルロ！Vtuber一問一答自己紹動画](https://www.youtube.com/watch?v=ZAYiCYLqn5A)
 - [UmiMurasaki TrackingTest](https://www.youtube.com/watch?v=sJejNzKuFQg)
 - [久寝スリーピー/新人Vtuber](https://www.youtube.com/watch?v=oxgvaiqI_K8)
+- [Heinヘイン](https://www.youtube.com/watch?v=aRb7EP9y90k)
 - [鹿園くえ/新人Vtube](https://m.youtube.com/watch?v=Mvsxf6egms0)
 - [お留守番少女りんりんの一問一答](https://www.youtube.com/watch?v=LMJ3xrqFAhM)
 - [反面教師ちゃん](https://www.youtube.com/watch?v=GGAqqliKEOQ)
