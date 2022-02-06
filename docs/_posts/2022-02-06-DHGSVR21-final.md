@@ -57,6 +57,8 @@ VR技術者検定の振り返りでした。学生さんの記憶に残ってい
 - [「虎の年にようこそ～」](https://hubs.mozilla.com/Yd8sqMj/G211TG2006)
 - [お正月と神社](https://hubs.mozilla.com/MpMQuXi/G211TG2057)
 - [おとぎ話のような未来を](https://hubs.mozilla.com/6sGWR8z/G211TG2019)
+- [恭頌新禧](https://hubs.mozilla.com/fVxbGD2)
+- [＃くえなま](https://hubs.mozilla.com/bG9y3KS/G211TG2009)
 
 年賀状から更新された作品
 
@@ -71,6 +73,7 @@ VR技術者検定の振り返りでした。学生さんの記憶に残ってい
 - [始めて動画はムズカシスギル](https://youtu.be/5J3hbS1R9bk)
 - [【阿荻teki】Vtuber一问一答自我介绍](https://www.bilibili.com/video/BV1VL411c7iS?share_source=copy_web)
 - [ツルロ！Vtuber一問一答自己紹動画](https://www.youtube.com/watch?v=ZAYiCYLqn5A)
+- [鹿園くえ/新人Vtube](https://m.youtube.com/watch?v=Mvsxf6egms0)
 
 
 ## 最終課題
