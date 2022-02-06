@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div class="tweets">
+{%- if page.title -%}
+<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+{{ content }}
+{% for tweet in site.data.tweets %}
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+ <p lang="ja" dir="ltr"></p><a href="{{ tweet.url }}">{{ tweet.memo }}</a>
+</blockquote>
+{% endfor %}
+</div>
