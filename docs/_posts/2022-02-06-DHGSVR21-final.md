@@ -53,6 +53,7 @@ VR技術者検定の振り返りでした。学生さんの記憶に残ってい
 みなさんのポートフォリオとしてご活用いただければと思いました。
 
 年賀状ありがとう
+- [あけましておめでとうございます](https://hubs.mozilla.com/ToFWYbV/G211TG2028)
 - [夢のお酒ワールドは作れない](https://hubs.mozilla.com/G211TG2045)
 - [お正月と神社](https://hubs.mozilla.com/MpMQuXi/G211TG2057)
 - [恭頌新禧](https://hubs.mozilla.com/G211TG2007)
