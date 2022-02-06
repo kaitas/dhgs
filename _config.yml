@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: DHGS
+baseurl: https://akihiko.shirai.as/dhgs/
 # show_downloads: true
 languages: ["en", "ja"]
 google_analytics: UA-168023643-1
