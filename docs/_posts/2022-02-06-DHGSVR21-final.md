@@ -69,7 +69,6 @@ VR技術者検定からの出題
 今週は準備段階です。こちらのGoogle Slidesを読んで、
 （今まで学んだ技術や、自分自身が持っているスキル、社会的に意味があることを考えて）
 自分の企画ページを作成してそのURLを張り付けてください。 
-https://docs.google.com/presentation/d/1QWQ-T0pxSzQpbRXb-4sYTsTdW6G1AbsCdMSveGxCzaM/
 
 
 <blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ja" dir="ltr"></p><a href="https://twitter.com/AshtraSpirit/status/1485199230650433540">date</a></blockquote>
