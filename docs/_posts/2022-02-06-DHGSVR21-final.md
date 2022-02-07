@@ -63,7 +63,7 @@ VR技術者検定の振り返りでした。学生さんの記憶に残ってい
 - [あけましておめでとうございます](https://hubs.mozilla.com/ToFWYbV/G211TG2028)
 - [夢のお酒ワールドは作れない](https://hubs.mozilla.com/G211TG2045)
 - [お正月と神社](https://hubs.mozilla.com/MpMQuXi/G211TG2057)
-- [新年動物2022]https://hubs.mozilla.com/arJEcBD/
+- [新年動物2022]https://hubs.mozilla.com/arJEcBD/)
 - [恭頌新禧](https://hubs.mozilla.com/G211TG2007)
 - [Happy 2022](https://hubs.mozilla.com/SaMw5t4/G211TG2022)
 - [良き新年、寅年おめでとう](https://hubs.mozilla.com/qnpKAdM/G211TG2054)
