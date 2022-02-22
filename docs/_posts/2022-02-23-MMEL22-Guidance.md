@@ -5,7 +5,6 @@ description: 「超メタバース・エンタテイメント・ラボ」ガイ�
 categories: MMEL22
 preview: https://akihiko.shirai.as/dhgs/assets/202111-avatars.png
 author: aki
-permalink: /MMEL22/Guidance
 ---
 
 ## ラボプロジェクト「超メタバース・エンタテイメント・ラボ」
