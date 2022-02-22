@@ -2,7 +2,7 @@
 layout: post
 title: "#DHGSMMEL22 「超メタバース・エンタテイメント・ラボ」"
 description: 「超メタバース・エンタテイメント・ラボ」ガイダンスは2022年4月23日 (土) 14:00-15:00を予定しております
-categories: MMEL22
+categories: VR21
 preview: https://akihiko.shirai.as/dhgs/assets/202111-avatars.png
 author: aki
 ---
