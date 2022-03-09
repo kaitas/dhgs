@@ -33,7 +33,7 @@ author: aki
 
 ## キーワード
 
-- Metaverse, VTuber, WebVR, Virtual Reality, Entertaiment
+- Metaverse, VTuber, WebVR, Virtual Reality, Entertainment
 - メタバース，VTuber，キャラクターデザイン，WebVR，バーチャルリアリティ学，アバター社会，ソーシャルメディア，エンタテイメント
 
 
