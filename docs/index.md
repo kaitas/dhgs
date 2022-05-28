@@ -8,7 +8,13 @@
 
 ゼミ形式：土曜日 5限
 
-[ガイダンスは 2022年4月23日 (土) 14:00-15:00 を予定しております](https://twitter.com/o_ob/status/1496132127787991040?s=20&t=f-0XRRVndIA1qkLFmcFSAQ)
+- [2022年度 ラボプロジェクト実施方針](https://gs.dhw.ac.jp/uploads/labproject.pdf)
+- [ガイダンスは 2022年4月23日 (土) 14:00-15:00 を予定しております](https://twitter.com/o_ob/status/1496132127787991040?s=20&t=f-0XRRVndIA1qkLFmcFSAQ)
+
+### 2022年度実施履歴
+- #1 2022年5月21日 VRSionUp!9「#IVRC2022 に挑戦！フランス遠征報告会」[YouTube](https://www.youtube.com/watch?v=YRlzcQI-Z_s)
+- #2 2022年5月28日 IVRC2022エントリーに向けて「問題解決と問題発見」
+
 
 ## DHGSVR21-先端テクノロジー特論D(人工現実) 
 
